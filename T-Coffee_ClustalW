@@ -1,0 +1,225 @@
+CLUSTAL W (1.83) multiple sequence alignment
+
+CAJ1081998.1    MPSPIPVT------------------RLLPKD------------------
+GLD54923.1      MPSPIPVT------------------RLLPKD------------------
+KAF3703405.1    MPSPIPVT------------------RLLPKD------------------
+KAG8009289.1    MPSPIPVT------------------RLLPKD------------------
+MBN3324817.1    MPSPIPVS------------------RLLPKE------------------
+NP_001118156.1  MPSPIPLT------------------RLLPKD------------------
+NP_991143.1     MPSPIPVT------------------RLLPKD------------------
+OWK63372.1      MATVIPGDLSEVRDTQKVPSGKRKRGETKPRKNFPCQLCDKAFNSVEKLK
+TKS88100.1      MPSPIPLT------------------RLLPKD------------------
+TNN61173.1      MPSPIPAT------------------RLLPKD------------------
+XP_043891069.1  MPSPIPVT------------------RLLPRD------------------
+                *.: **                    .  *:.                  
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      VHSYSHTGERPYKCTQQDCTKAFVSKYKLLRHMATHSPEKTHKCNYCEKM
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      FHRKDHLKNHLHTHNPNKEAFKCEECGKNYNTKLGFKRHLALHAATSGDL
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      TCKVCLQTFESTGVLLEHLKTHAGKSSGGVKEKKHQCEHCDRRFYTRKDV
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    ------------I-------------------------------------
+GLD54923.1      ------------I-------------------------------------
+KAF3703405.1    ------------I-------------------------------------
+KAG8009289.1    ------------I-------------------------------------
+MBN3324817.1    ------------F-------------------------------------
+NP_001118156.1  ------------L-------------------------------------
+NP_991143.1     ------------F-------------------------------------
+OWK63372.1      RRHMVVHTGRKDFLCQYCAQRFGRKDHLTRHMKKSHNQELLKVKTEPMDL
+TKS88100.1      ------------I-------------------------------------
+TNN61173.1      ------------M-------------------------------------
+XP_043891069.1  ------------I-------------------------------------
+                            :                                     
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      LDPFTCNVSVPIKDELLPVMSLPSSELTSKPFTNTLQLNLYNTQIQSMQS
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      SASAHQMVATSLPLGMPCPIDMESVHPSHQLSLKYPLGTTSYSISMPEKE
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    --------------------------------------------------
+GLD54923.1      --------------------------------------------------
+KAF3703405.1    --------------------------------------------------
+KAG8009289.1    --------------------------------------------------
+MBN3324817.1    --------------------------------------------------
+NP_001118156.1  --------------------------------------------------
+NP_991143.1     --------------------------------------------------
+OWK63372.1      QPLKGEIESYLMELQSGMPSSSQDSQASSSKLGLDPQVGPLDDGSGEVSL
+TKS88100.1      --------------------------------------------------
+TNN61173.1      --------------------------------------------------
+XP_043891069.1  --------------------------------------------------
+                                                                  
+
+CAJ1081998.1    --------------------------------FPSLDMGICSSPLTK-HS
+GLD54923.1      --------------------------------YPSLDVGTCSSPLTK-HP
+KAF3703405.1    --------------------------------YPSLDFGACSSPLTK-HS
+KAG8009289.1    --------------------------------YPSVDIGTCSSPLTK-HS
+MBN3324817.1    --------------------------------YPSIDLGPCSSPLER-HV
+NP_001118156.1  --------------------------------YPSLDFGACSSPLAK-YS
+NP_991143.1     ----------------------------------GLEFGACSSPLTK-TA
+OWK63372.1      SKGSVPISEPLNAPSLDFSQLFNFIPVNGPPYNPSVSVGNLGMSYTQEEA
+TKS88100.1      --------------------------------YPSVDIGTCSSPLTK-RS
+TNN61173.1      --------------------------------FPCLDIGTCSSPLTK-HP
+XP_043891069.1  --------------------------------YPSLDTRACSSPLTK-H-
+                                                   :.    . .  :   
+
+CAJ1081998.1    H-SSTLQVPVRRFHG-----------------------------------
+GLD54923.1      RCGSTLQVPARRLHG-----------------------------------
+KAF3703405.1    Q-GSILQVPAQRFHG-----------------------------------
+KAG8009289.1    H-VTTLQVPVQRLHG-----------------------------------
+MBN3324817.1    K-DSTLHLPSQGFKA-----------------------------------
+NP_001118156.1  N-DSTLRIPTQRFHG-----------------------------------
+NP_991143.1     S-GSTLRVPTNKFHG-----------------------------------
+OWK63372.1      H-SSMTQLPPQTQDPQDPSNSIGLGSLHSFSPLVIPGKDSKSFLGGASSA
+TKS88100.1      H-GITLQVPVQRLHG-----------------------------------
+TNN61173.1      V-GTHLQVPVQRLHG-----------------------------------
+XP_043891069.1  --GSTLQVPTERLHGE----------------------------------
+                      ::* .  .                                    
+
+CAJ1081998.1    ---ATTSRLWSSVINWKELRSVQPVGSGGFGSVYRAAYFGETVALKKVKK
+GLD54923.1      ---RVASRLWSSVIHWKELRSVQPVGSGGFGSVYKAEYLGETVALKRVKK
+KAF3703405.1    ---KVASRLWSTVILWKELRSVQPIGSGGFGSVYKAEYLGETVALKKVKK
+KAG8009289.1    ---RVASRLWSSVIHWKELRSMQSVGSGGFGSVYKAEYLGDTVALKKVKK
+MBN3324817.1    ---RNALKLWSCVIQWKQLRLLHPLGSGGFGSVYKGTYYGKTVAVKKVKK
+NP_001118156.1  ---KVATRLWSSTIDWKELQSMQPIGSGGFGSVYRSVYFGETVAVKKVKK
+NP_991143.1     ---KVAHRLWSSVIHWRELQALEPIGSGGFGTVFRGTYFGETVAVKKV-K
+OWK63372.1      RTRRLPSRLSWCSIDWEQLCLLQPLGSGGFGSVYKATYHGATVAVKQVKK
+TKS88100.1      ---RVASRLWSSVIHWKELRSMQSVGSGGFGSVYKAEYLGDTVALKKVKK
+TNN61173.1      ---KTASRLWSTVIYWKEVRALLPVGSGGFGSVYKAQYLGETVALKRVKK
+XP_043891069.1  ---RVASRLWSSVIYWKELRSLQPVGSGGFGSVYRAEYLGQTAALKRVKK
+                     . :*    * *.::  : .:******:*::. * * *.*:*:* *
+
+CAJ1081998.1    CTKNKLASRQSFWAELNAAHLRHRNIVRVIAATTCVPEDFGDESSIGTVL
+GLD54923.1      CAKNKLASRQSFWAELNAAHLRHRNIARVIAATTCVPADFGDESSIGTIL
+KAF3703405.1    CTKNKLASRQSFWAELNAAHLRHRNIVRVIAATTCVPADFGDESSIGTIL
+KAG8009289.1    CTKNKLASRQSFWAELNAAHLRHTNIVRVIAATTCVPADFGDESSIGTIL
+MBN3324817.1    CTKNKLASRQSFWSELNAAHLQHENIVRIVAATTCIPESVENQDNIGTII
+NP_001118156.1  CVKNKLASRQSFWAELNAAHLRHKNIVRIIAATTCIPENLENGDNIGTIV
+NP_991143.1     CVKNKLASRQSFWAELNAAHLHHQNIVRVLAATTCTPAHLNTKDNIGTIV
+OWK63372.1      SSKNRLASRQSFWAELNVAQLQHDNVVRVVAASTCAPAS---ENSLGTII
+TKS88100.1      CTKNKLASRQSFWAELNAAHLRHTNIVRVIAATTCVPADFGDESSIGTIL
+TNN61173.1      STKNKLASRQSFWAELNAAHLRHPNVVRVIAATTCVPPDFGDEGSIGTVL
+XP_043891069.1  CTKNRLASRQSFWAELNAAHLRHGNIVRVIAATTCVPADFGDDDCIGMIL
+                . **:********:***.*:*:* *:.*::**:** *      . :* ::
+
+CAJ1081998.1    MEFVGRENLQQIIYGSA---------------APLEEDRWLRYSEDIAHG
+GLD54923.1      MEFVGSRNLQQIIYGCA---------------EALGEDRWLRYSADIVHG
+KAF3703405.1    MEYVGSRSLQQVIYGCT---------------EPLVEDRWLRYSADIARG
+KAG8009289.1    MEFVGSRNLQQIIYGCA---------------EPLGKDRWLRYSTDIVHG
+MBN3324817.1    MEFAGTATLHHVIYNHA---------------PPLETETCFRFSKDIANG
+NP_001118156.1  MEYAGERTLHQVIYGCA---------------ETLEVDRWITFSKNIAHG
+NP_991143.1     MEFAGNINLQKLIYGLT---------------DLLPVEKCIKYSIDIARA
+OWK63372.1      MEYVGNITLHHVIYGTGGAWRQGEDDEEGCGRKALSMEQTVCYSCDIMTG
+TKS88100.1      MEFVGSRNLQQIIYGCA---------------EPLGEDRWLRYSTDIVHG
+TNN61173.1      MEFVGDENLQQIISDGA---------------QPLGEDRWLRYAADIARG
+XP_043891069.1  MEYVGDRNLQQVIYDSA---------------E-LQEEQWLRYSTDIAHG
+                **:.*  .*:::* .                   *  :  . :: :*  .
+
+CAJ1081998.1    LRFLHSHNVVHLDIKPANILVSSEDVCKIADFGCSLKLDHGCEASPISPY
+GLD54923.1      LRFLHSHSIVHLDIKPANVLVSGEDVCKIVDFGCSLKLDRGCEVSAVGPH
+KAF3703405.1    LRFLHSHSIVHLDIKPANVLVSGEDICKIADFGCSLKLDQGCEVSSVSPL
+KAG8009289.1    LRFLHSHSVVHLDIKPANVLVSNEDVCKIADFGCSLKLERGCEVSSISPH
+MBN3324817.1    LHFLHSHCIIHLDLKPANVLVTDGNICKIADFGCSQKVDNYNDISPAKPQ
+NP_001118156.1  LQFLHSHGIVHLDIKPANVLVSREDVCKIVDFGCSLKLELGGDRS--SPQ
+NP_991143.1     LQHLHAHGVVHLDLKPANVLLSEQGVCKIADFGCSFKISSTSD---TVTH
+OWK63372.1      LAFLHSQDIVHLDLKPANVFITEQGVCKIGDFGCSQKLEMGSS---QSAR
+TKS88100.1      LRFLHSHSVVHLDIKPANVLVSNEDVCKIADFGCSLKLDRGCEVSSISPH
+TNN61173.1      LRFLHAHCVVHLDIKPANVLLSSGDVCKIADFGCSLKLDRGCEVSAISPR
+XP_043891069.1  LRFLHAHSVVHLDIKPANVLVTSDDVCKIVDFGCSFKLERGCEVSVIGPE
+                * .**:: ::***:****::::  .:*** ***** *:.   .     . 
+
+CAJ1081998.1    LSHVGGTYTHRAPELLRGEGVSPKADIYSFGITMWQLISREQPYTGERQH
+GLD54923.1      LSHVGGTYTHRAPELLKGEGVSPKADIFSFGITLWQLITREQPYTGDRQH
+KAF3703405.1    LSHVGGTYTHRAPELLKGEQVSLKADIFSFGITFWQLVTRAEPYTGDRQH
+KAG8009289.1    LIHVGGTYTHRAPEMLKGEGVTPKADIFSFGITFWQLITREQPYTGDRQH
+MBN3324817.1    NCHLGGTYTHRAPELLKGENASFKADIYSFGITFWQLMTRGQPYTGDRQA
+NP_001118156.1  MSLGGGTYTHRAPELLKGGDVSPKSDIYSLGITIWQMITREQPYTGDRQY
+NP_991143.1     MNEIGGTFTHRAPELLKGEEVSPRVDVYSFGITLWQLLTREPPYEGDRQY
+OWK63372.1      VCQQGGTYTHRAPELLKGERVTAKADIYSFAITLWQMVTREQPYVGERQH
+TKS88100.1      LSHVGGTYTHRAPEMLKGEGVTPKADIFSFGITFWQLITREQPYTGDRQH
+TNN61173.1      VSHVGGTYTHRAPELLKGQALSPAADVYSFGITLWQLMTREQPYTGDRQH
+XP_043891069.1  LSHVGGTYTHRAPELLKGEAVSPKADIFSFGITLWQLMTREQPYTGDRQH
+                    ***:******:*:*   :   *::*:.**:**:::*  ** *:** 
+
+CAJ1081998.1    VLYAVVAHNLRPSLHINSVFQSKLGQRCKTLVERCWSRDVSCRPTAHELL
+GLD54923.1      VLYAVVAHNLRPSVQDHPTFQSEQGRLCRTLLNRCWSGEARCRPSAQELL
+KAF3703405.1    ILYAVVAHNLRPSVQDQLVFSSEQGRLCRTILSRCWSGDPCIRPSAQEVL
+KAG8009289.1    VLYAVVAHNLRPPVHNHPAFESEQGRLCRTLLSRCWSGDARCRPSSQELL
+MBN3324817.1    VLYAVVAYDLRPAVTDGVFNETPLGQTCKAFMCRCWN-------------
+NP_001118156.1  VLYAVVAYDLRPSVTDE-SFKSHHGDLCRSIVSKCWSGEPSWRPSAQDVI
+NP_991143.1     ILYAVVGYNLRPLTSRNVFTQFFIGQNCQKLISRCWDGDPSIRPTADKFV
+OWK63372.1      VLYAVVAYNLRPSLAAEEFHGSPAGQTLHGIVSCCWTANAEERLPADQLL
+TKS88100.1      VLYAVVAHNLRPSVHSHPAFESEQGRLCRTLLSRCWSGDARCRPSAQELL
+TNN61173.1      VLYAVVAHNLRPSVRDHPVFRSERGPACRSALARCWSAEGRCRPAADELL
+XP_043891069.1  VVYAVVAQNLRPPVHESPVFRSEQGRLCRSLLSRCWSGDARCRPSAQELL
+                ::****. :***            *   :  :  **              
+
+CAJ1081998.1    PHLEQLRSQV
+GLD54923.1      PHLEQLRSQT
+KAF3703405.1    TQLEQLRSQT
+KAG8009289.1    PHMEQLRSHT
+MBN3324817.1    ----------
+NP_001118156.1  TDLDKIRSEH
+NP_991143.1     DELSVL---L
+OWK63372.1      PSLRALKQSL
+TKS88100.1      PHMEQLRSHV
+TNN61173.1      PLLETLRAPR
+XP_043891069.1  QQLEQLRSHA
+                          
+
+
+
